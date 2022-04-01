@@ -60,3 +60,7 @@ export const obj_type = (obj) => {
     return "Object";
   }
 };
+
+// 判断两个对象内容是否相等
+export const isEqual = (obj1,obj2)=>{
+}

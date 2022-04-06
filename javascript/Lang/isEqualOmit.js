@@ -1,4 +1,4 @@
-import { omitBy } from "./omitBy";
+import { omitBy } from "../Object/omitBy";
 import { isEqual } from "./isEqual";
 
 // 判断两个数据是否相等（忽略 Object中 undefind的影响）

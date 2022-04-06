@@ -4,8 +4,7 @@
 | --------------- | ------------------------------------------------ | --------------------------------------------------------------------- |
 | Lang:语言       | [isEqual](./Lang/isEqual.js)                     | 判断两个数据是否严格相等                                              |
 | ^               | [isEqualOmit](./Lang/isEqualOmit.js)             | 判断两个数据是否相等（忽略 Object 中 undefind 的影响）                |
-| ^               | [clone](./Lang/clone.js)                         | -                                                                     |
-| ^               | [cloneDeep](./Lang/cloneDeep.js)                 | -                                                                     |
+| ^               | [cloneDeep](./Lang/cloneDeep.js)                 | 深拷贝                                                                |
 | ^               | [eq](./Lang/eq.js)                               | -                                                                     |
 | ^               | [gt](./Lang/gt.js)                               | -                                                                     |
 | ^               | [gte](./Lang/gte.js)                             | -                                                                     |
